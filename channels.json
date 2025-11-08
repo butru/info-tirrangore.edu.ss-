@@ -1,0 +1,37 @@
+[
+  {
+    "id": "general",
+    "name": "General",
+    "description": "General community discussions and conversations",
+    "type": "general",
+    "members": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "id": "announcements",
+    "name": "Announcements",
+    "description": "Important community announcements and updates",
+    "type": "announcements",
+    "members": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "id": "events",
+    "name": "Events",
+    "description": "Community events, activities, and gatherings",
+    "type": "events",
+    "members": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "id": "emergency",
+    "name": "Emergency",
+    "description": "Emergency alerts and critical information",
+    "type": "emergency",
+    "members": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "id": "suggestions",
+    "name": "Suggestions",
+    "description": "Community feedback and improvement suggestions",
+    "type": "suggestions",
+    "members": ["1", "2", "3", "4", "5"]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Monthly Community Meeting",
+    "description": "Our regular monthly gathering to discuss community matters, share updates, and plan future activities.",
+    "date": "2024-01-20T14:00:00.000Z",
+    "location": "Community Center Main Hall",
+    "organizer": "1",
+    "attendees": ["1", "2", "3"]
+  },
+  {
+    "id": "2",
+    "title": "Community Clean-up Day",
+    "description": "Let's work together to keep our community clean and beautiful! Bring gloves and enthusiasm.",
+    "date": "2024-01-27T09:00:00.000Z",
+    "location": "Central Park",
+    "organizer": "2",
+    "attendees": ["1", "2", "4"]
+  },
+  {
+    "id": "3",
+    "title": "Youth Sports Tournament",
+    "description": "Annual community sports tournament for youth. Football, basketball, and running competitions.",
+    "date": "2024-02-10T08:00:00.000Z",
+    "location": "Community Sports Ground",
+    "organizer": "3",
+    "attendees": ["3", "5"]
+  }
+]

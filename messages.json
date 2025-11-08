@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "channelId": "general",
+    "content": "Welcome to our Community Communication Platform! 🎉 This is where we'll stay connected, share updates, and build our community together.",
+    "type": "announcement",
+    "timestamp": "2024-01-15T08:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "userId": "3",
+    "channelId": "general",
+    "content": "Hello everyone! Excited to be part of this community. Looking forward to connecting with you all!",
+    "type": "text",
+    "timestamp": "2024-01-15T08:15:00.000Z"
+  },
+  {
+    "id": "3",
+    "userId": "2",
+    "channelId": "announcements",
+    "content": "🚨 IMPORTANT: Community meeting this Saturday at the Community Center. All members are encouraged to attend!",
+    "type": "announcement",
+    "timestamp": "2024-01-15T09:00:00.000Z"
+  }
+]

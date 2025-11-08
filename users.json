@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Community Admin",
+    "email": "admin@community.com",
+    "role": "Admin",
+    "isOnline": true,
+    "lastSeen": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Event Coordinator",
+    "email": "events@community.com",
+    "role": "Moderator",
+    "isOnline": true,
+    "lastSeen": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "John Deng",
+    "email": "john@community.com",
+    "role": "Member",
+    "isOnline": true,
+    "lastSeen": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Sarah Akech",
+    "email": "sarah@community.com",
+    "role": "Member",
+    "isOnline": false,
+    "lastSeen": "2024-01-15T08:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Michael Bol",
+    "email": "michael@community.com",
+    "role": "Member",
+    "isOnline": true,
+    "lastSeen": "2024-01-15T09:30:00.000Z"
+  }
+]
